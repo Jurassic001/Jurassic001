@@ -1,6 +1,13 @@
-### Hi there 👋
+### Welcome to my kingdom
 
 <!--
+Draft:
+Working on - Bell AVR 2024-25
+Learning - Java & C++/C (in the future)
+Interested in - Automation of repetitive tasks
+I like saving nanoseconds by optimizing if statements
+Reach me info?
+
 **Jurassic001/Jurassic001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
