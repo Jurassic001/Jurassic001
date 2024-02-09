@@ -1,12 +1,17 @@
-### Welcome to my kingdom
+### Hey! I'm Max Haberer, and I'm a high school student in Texas! <br/>
+
+- 🛩🎮 I'm currently working on code for the 2024 Bell Advanced Vertical Robotics competition <br/>
+- 🖥 I'm currently learning Java and in the future I'll be learning C++/C <br/>
+- 💬 I'm very interested in the automation of repetitive tasks and high user-friendliness <br/>
+- 👨‍💻 I have an unhealthy obsession with saving nanoseconds by optimizing tiny things 🤷‍♂️<br/>
 
 <!--
 Draft:
-Working on - Bell AVR 2024-25
-Learning - Java & C++/C (in the future)
-Interested in - Automation of repetitive tasks
-I like saving nanoseconds by optimizing if statements
-Reach me info?
+Add contact info to readme?
+
+-->
+<!--
+Default Stuff:
 
 **Jurassic001/Jurassic001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+-  Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
