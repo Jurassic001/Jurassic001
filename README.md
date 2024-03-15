@@ -1,7 +1,7 @@
-### Hey! I'm Max Haberer, and I'm a student! <br/>
+### Hey! I'm Max Haberer, and I'm a high school student in Texas! <br/>
 
 - 🛩🎮 I'm currently working on code for the 2024 Bell Advanced Vertical Robotics competition <br/>
-- 🖥 I'm currently learning Java and in the future I'll be learning C/C++ <br/>
+- 🖥 I'm currently learning Java and in the future I'll be learning C++/C <br/>
 - 💬 I'm very interested in the automation of repetitive tasks and high user-friendliness <br/>
 - 👨‍💻 I have an unhealthy obsession with saving nanoseconds by optimizing tiny things 🤷‍♂️<br/>
 
