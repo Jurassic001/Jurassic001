@@ -25,7 +25,8 @@
 [![Windows Badge](https://img.shields.io/badge/Windows-%2300a1f1?style=flat&label=OS&labelColor=%23353537)]()
 [![VSCode Badge](https://img.shields.io/badge/VSCode-%230078d7?style=flat&label=Editor&labelColor=%23353537)]()
 
-## Hi! I'm Max Haberer, and I'm a high school student in Texas!
+<!-- Use three #'s and asterisks to maintain text size & prevent the ## line from glitch-ing thru the logo -->
+### **Hi! I'm Max Haberer, and I'm a high school student in Texas!**
 - I'm currently working on code (among other things) for the [2024 Advanced Vertical Robotics competition](https://theavr.org/2024), as part of Highland Park High School Robotics
 - I'm learning C++ and using PX4, MavLink, and QGroundControl to automate drone movement and task execution
 - I'm VERY interested in the automation of repetitive tasks and high user-friendliness
