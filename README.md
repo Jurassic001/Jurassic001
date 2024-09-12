@@ -5,7 +5,7 @@
 <img alt="MH Logo" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/119370602?v=4&mask=circle&width=400" align="right">
 
 <!-- Universal formatting: label color is always #353537 (similar to gray-ish parts of my logo)-->
-[![My Website](https://img.shields.io/website?url=https%3A%2F%2FJurassic001.github.io&up_message=Currently%20Online&up_color=%2310D000&down_message=Currently%20Offline&down_color=%23EA0000&style=for-the-badge&label=My%20Website&labelColor=%23353537)](https://Jurassic001.github.io) <!-- Maybe add a "contact me" badge here that opens a link to my email? -->
+[![My Website](https://img.shields.io/website?url=https%3A%2F%2FJurassic001.github.io&up_message=Currently%20Online&up_color=%23023020&down_message=Currently%20Offline&down_color=%23EA0000&style=for-the-badge&label=My%20Website&labelColor=%23353537)](https://Jurassic001.github.io) <!-- Maybe add a "contact me" badge here that opens a link to my email? -->
 [![GitHub followers](https://img.shields.io/github/followers/Jurassic001?style=for-the-badge&logo=github&logoColor=%23ffffff&logoSize=auto&labelColor=%23353537&color=%2358688d)](https://github.com/Jurassic001?tab=followers)
 [![Built With Shields.io](https://img.shields.io/badge/Shields.io-%231d253c?style=for-the-badge&logoColor=%23ffffff&logoSize=auto&label=Badges%20By&labelColor=%23353537)](https://shields.io)
 
