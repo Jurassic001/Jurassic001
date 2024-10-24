@@ -1,11 +1,10 @@
 <!--I used this guide to track my private commits: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#on-vercel-->
 <img alt="stats" align="left" src="https://github-readme-stats-rouge-nine-19.vercel.app/api?username=Jurassic001&layout=compact&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&exclude_repo=github-readme-stats"/>
 <img alt="top-langs" align="left" src="https://github-readme-stats-rouge-nine-19.vercel.app/api/top-langs/?username=Jurassic001&layout=compact&hide_border=true&theme=github_dark&exclude_repo=github-readme-stats"/>
-<!-- Eventually replace the logo -->
 <img alt="MH Logo" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/119370602?v=4&mask=circle&width=400" align="right">
 
 <!-- Universal formatting: label color is always #353537 (similar to gray-ish parts of my logo)-->
-[![My Website](https://img.shields.io/website?url=https%3A%2F%2FJurassic001.github.io&up_message=Currently%20Online&up_color=%23023020&down_message=Currently%20Offline&down_color=%23EA0000&style=for-the-badge&label=My%20Website&labelColor=%23353537)](https://Jurassic001.github.io) <!-- Maybe add a "contact me" badge here that opens a link to my email? -->
+[![My Website](https://img.shields.io/website?url=https%3A%2F%2FJurassic001.github.io&up_message=Currently%20Online&up_color=%23023020&down_message=Currently%20Offline&down_color=%23EA0000&style=for-the-badge&label=My%20Website&labelColor=%23353537)](https://Jurassic001.github.io)
 [![GitHub followers](https://img.shields.io/github/followers/Jurassic001?style=for-the-badge&logo=github&logoColor=%23ffffff&logoSize=auto&labelColor=%23353537&color=%2358688d)](https://github.com/Jurassic001?tab=followers)
 [![Built With Shields.io](https://img.shields.io/badge/Shields.io-%231d253c?style=for-the-badge&logoColor=%23ffffff&logoSize=auto&label=Badges%20By&labelColor=%23353537)](https://shields.io)
 
@@ -30,4 +29,5 @@
 - I'm currently working on code (among other things) for the [2024 Advanced Vertical Robotics competition](https://theavr.org/2024), as part of Highland Park High School Robotics
 - I'm learning C++ and using PX4, MavLink, and QGroundControl to automate drone movement and task execution
 - I'm VERY interested in the automation of repetitive tasks and high user-friendliness
+- I'm working on a little passion project at the moment, [**simple_ytdl**](https://github.com/Jurassic001/simple_ytdl), a lightweight & easy-to-use program for downloading Youtube videos and audio at high quality! Feel free to check it out!
 - I'm currently applying to college! I hope to major in Electrical & Computer Engineering, so that I can focus on my interests in robotics and programming
