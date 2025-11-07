@@ -38,7 +38,7 @@
 
 <!--I used this guide to track my private commits: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#on-vercel-->
 <div align="center">
-    <img alt="stats" src="https://github-readme-stats-rouge-nine-19.vercel.app/api?username=Jurassic001&layout=compact&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&exclude_repo=github-readme-stats"/>
-    <img alt="top-langs" src="https://github-readme-stats-rouge-nine-19.vercel.app/api/top-langs/?username=Jurassic001&layout=compact&hide_border=true&theme=github_dark&exclude_repo=github-readme-stats"/>
+    <img alt="stats" src="https://github-readme-stats-rouge-nine-19.vercel.app/api?username=Jurassic001&layout=compact&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&show=prs_merged&theme=github_dark&exclude_repo=github-readme-stats"/>
+    <img alt="top-langs" src="https://github-readme-stats-rouge-nine-19.vercel.app/api/top-langs/?username=Jurassic001&layout=compact&hide_border=true&theme=github_dark&langs_count=10&exclude_repo=github-readme-stats"/>
     <!-- This is literally just my profile picture <img alt="MH Logo" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/119370602?v=4&mask=circle&width=200"/> -->
 </div>
