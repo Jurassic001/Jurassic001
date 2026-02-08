@@ -3,7 +3,7 @@
 <!-- Badges and clickables -->
 <!-- Universal formatting: label color is always #353537 (similar to gray-ish parts of my logo)-->
 
-[![My Website](https://img.shields.io/website?url=https%3A%2F%2FJurassic001.github.io&up_message=Online&up_color=%23023020&down_message=Offline&down_color=%23EA0000&style=for-the-badge&label=My%20Website&labelColor=%23353537)](https://Jurassic001.github.io)
+[![My Website](https://img.shields.io/website?url=https%3A%2F%2Fjurassic001-portfolio.vercel.app&up_message=Online&up_color=%23023020&down_message=Offline&down_color=%23EA0000&style=for-the-badge&label=My%20Website&labelColor=%23353537)](https://jurassic001-portfolio.vercel.app/)
 [![GitHub followers](https://img.shields.io/github/followers/Jurassic001?style=for-the-badge&logo=github&logoColor=%23ffffff&logoSize=auto&labelColor=%23353537&color=%2358688d)](https://github.com/Jurassic001?tab=followers)
 [![A&M Class of '29](https://img.shields.io/badge/Texas%20A%26M-500000?style=for-the-badge&logoColor=ffffff&logoSize=auto&label=Class%20of%20'29&labelColor=353537)](https://www.tamu.edu/index.html)
 [![Built With Shields.io](https://img.shields.io/badge/Shields.io-%231d253c?style=for-the-badge&logoColor=%23ffffff&logoSize=auto&label=Badges%20By&labelColor=%23353537)](https://shields.io)
@@ -24,9 +24,10 @@
 [![git Badge](https://img.shields.io/badge/git-%23F05032?style=flat&logo=git&logoColor=%23ffffff&labelColor=%23353537)]()
 [![GitHub Badge](https://img.shields.io/badge/GitHub-%2334567C?style=flat&logo=github&logoColor=%23ffffff&labelColor=%23353537)]()
 
-[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu%20Linux-%23E95420?style=flat&label=OS&labelColor=%23353537)]()
+[![Linux Badge](https://img.shields.io/badge/Linux-%23FCC624?style=flat&label=OS&labelColor=%23353537)]()
 [![Windows Badge](https://img.shields.io/badge/Windows-%2300a1f1?style=flat&label=OS&labelColor=%23353537)]()
 [![VSCode Badge](https://img.shields.io/badge/VSCode-%230078d7?style=flat&label=Editor&labelColor=%23353537)]()
+[![VIM Badge](https://img.shields.io/badge/VIM-%23019733?style=flat&label=Editor&labelColor=%23353537)]()
 
 <!-- "About me" bullet points -->
 
