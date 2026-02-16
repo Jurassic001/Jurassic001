@@ -19,10 +19,12 @@
 ![JS Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=%23ffffff&labelColor=%23353537)
 ![TS Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&logoColor=%23ffffff&labelColor=%23353537)
 ![HTML Badge](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=%23ffffff&labelColor=%23353537)
+![LaTeX Badge](https://img.shields.io/badge/LaTeX-%23008080?style=flat&logo=latex&logoColor=%23ffffff&labelColor=%23353537)
 ![MQTT Badge](https://img.shields.io/badge/MQTT-%23660066?style=flat&logo=mqtt&logoColor=%23ffffff&labelColor=%23353537)
 ![Docker Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=%23ffffff&labelColor=%23353537)
 ![git Badge](https://img.shields.io/badge/git-%23F05032?style=flat&logo=git&logoColor=%23ffffff&labelColor=%23353537)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-%2334567C?style=flat&logo=github&logoColor=%23ffffff&labelColor=%23353537)
+
 ![Linux Badge](https://img.shields.io/badge/Linux-%23E95420?style=flat&label=OS&labelColor=%23353537)
 ![Windows Badge](https://img.shields.io/badge/Windows-%2300a1f1?style=flat&label=OS&labelColor=%23353537)
 ![VSCode Badge](https://img.shields.io/badge/VSCode-%230078d7?style=flat&label=Editor&labelColor=%23353537)
