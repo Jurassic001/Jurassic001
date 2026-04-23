@@ -1,4 +1,4 @@
-# Hi! I'm Max Haberer, and I'm a college student @ Texas A&M!
+# Howdy! I'm Max Haberer, and I'm a college student @ Texas A&M!
 
 <!-- Badges and clickables -->
 <!-- Universal formatting: label color is always #353537 (similar to gray-ish parts of my logo)-->
