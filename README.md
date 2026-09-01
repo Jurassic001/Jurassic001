@@ -5,7 +5,6 @@
 
 [![My Website](https://img.shields.io/website?url=https%3A%2F%2Fmhaberer.com&up_message=Online&up_color=%23023020&down_message=Offline&down_color=%23EA0000&style=for-the-badge&label=My%20Website&labelColor=%23353537)](https://mhaberer.com/)
 [![My Resume](https://img.shields.io/badge/My%20Resume-%23334169?style=for-the-badge)](https://jurassic001.github.io/autoCV)
-[![GitHub followers](https://img.shields.io/github/followers/Jurassic001?style=for-the-badge&logo=github&logoColor=%23ffffff&logoSize=auto&labelColor=%23353537&color=%2358688d)](https://github.com/Jurassic001?tab=followers)
 ![A&M Class of '29](https://img.shields.io/badge/Texas%20A%26M-500000?style=for-the-badge&logoColor=ffffff&logoSize=auto&label=Class%20of%20'29&labelColor=353537)
 [![Built With Shields.io](https://img.shields.io/badge/Shields.io-%231d253c?style=for-the-badge&logoColor=%23ffffff&logoSize=auto&label=Badges%20By&labelColor=%23353537)](https://shields.io)
 
